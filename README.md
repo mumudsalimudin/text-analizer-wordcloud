@@ -77,3 +77,5 @@ text-analyzer/
 - Perluas analisis: tambah fitur (mis. n-grams, stemming, TF-IDF)
 
 ## Lisensi
+
+GNU GENERAL PUBLIC LICENSE
