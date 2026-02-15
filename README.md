@@ -1,4 +1,4 @@
-# Text Analyzer (Advanced)
+# Text Analyzer
 
 Program Python untuk menganalisis teks: membersihkan kata, menghapus stopwords (ID/EN dasar), menghitung frekuensi kata,
 menampilkan peringkat kata teratas, menyimpan hasil ke file, dan menghasilkan visualisasi word cloud.
