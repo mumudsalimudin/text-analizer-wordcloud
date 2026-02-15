@@ -15,7 +15,7 @@ menampilkan peringkat kata teratas, menyimpan hasil ke file, dan menghasilkan vi
 - Dependensi: `wordcloud`, `matplotlib`
 
 ## Instalasi
-```bash
+```
 python -m venv .venv
 # Windows:
 .venv\Scripts\activate
@@ -28,22 +28,22 @@ pip install -r requirements.txt
 ## Cara Menjalankan
 
 **1) Input via terminal (interactive):**
-```bash
+```
 python src/text_analyzer.py
 ```
 
 **2) Input dari file (recommended untuk teks panjang):**
-```bash
+```
 python src/text_analyzer.py --file data/sample_input.txt
 ```
 
 **3) Ubah jumlah Top-N:**
-```bash
+```
 python src/text_analyzer.py --file data/sample_input.txt --top 25
 ```
 
 **4) Tanpa visualisasi (misalnya di server/CI):**
-```bash
+```
 python src/text_analyzer.py --file data/sample_input.txt --no-viz
 ```
 
@@ -77,4 +77,3 @@ text-analyzer/
 - Perluas analisis: tambah fitur (mis. n-grams, stemming, TF-IDF)
 
 ## Lisensi
-MIT (silakan ubah jika diperlukan).
