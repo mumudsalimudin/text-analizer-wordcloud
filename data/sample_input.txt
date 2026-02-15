@@ -1,0 +1,3 @@
+Desentralisasi fiskal adalah topik penting dalam ekonomi publik, terutama ketika dikaitkan dengan kesejahteraan masyarakat.
+Dalam analisis teks, kita menghitung frekuensi kata dan menampilkan word cloud untuk melihat tema dominan.
+Fiscal decentralization and welfare analysis can be enriched with robust empirical methods.
